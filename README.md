@@ -1,6 +1,8 @@
 # self-salvation
 Just do IT
 
+no changes
+
 first change conflict
 Just do IT conflict
 first change conflict
@@ -16,4 +18,3 @@ first change
 
 
 123	444
-
